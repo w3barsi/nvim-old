@@ -107,6 +107,8 @@ return {
 	"w3barsi/barstrata.nvim",
 	"catppuccin/nvim",
 	"Mofiqul/dracula.nvim",
+	-- "maxmx03/dracula.nvim",
+	{ "echasnovski/mini.nvim", version = false },
 
 	"nvim-lualine/lualine.nvim",
 	"ryanoasis/vim-devicons",

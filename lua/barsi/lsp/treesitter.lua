@@ -69,7 +69,7 @@ require("nvim-treesitter.configs").setup({
 })
 
 require("treesitter-context").setup({
-	enable = true,
+	enable = false,
 	patterns = {
 		default = {
 			"class",
