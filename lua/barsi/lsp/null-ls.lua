@@ -21,8 +21,8 @@ local sources = {
 	--"json", "jsonc", "yaml", "markdown", "markdown.mdx", "graphql", "handlebars", "astro" }
 	--}),
 	require("typescript.extensions.null-ls.code-actions"),
-	null_ls.builtins.formatting.prettier,
-	-- null_ls.builtins.formatting.prettierd,
+	-- null_ls.builtins.formatting.prettier,
+	null_ls.builtins.formatting.prettierd,
 	null_ls.builtins.formatting.stylua,
 	null_ls.builtins.formatting.markdownlint,
 }
